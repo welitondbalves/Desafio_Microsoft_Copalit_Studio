@@ -1,4 +1,4 @@
-# Desafio_Microsoft_Copalit_Studio
+# Desafio_Microsoft_Copilot_Studio
 Criar um Copilot em branco
 Depois de entrar ou se inscrever no Copilot Studio, você acessa a Home page. Selecione Criar na navegação à esquerda.
 Na página Criar, selecione Novo agente.
